@@ -41,11 +41,11 @@ class Login extends StatelessWidget {
                    }, 
                        child: Text('or, sign up', style: TextStyle(fontSize: 15.0),),
                 )
-            ],
-    ),
-     ),
+              ],
+            ),
+          ),
         ),
-    ),
+      ),
     );
   }
 }
